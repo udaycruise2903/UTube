@@ -15,7 +15,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Music', icon: <MusicNoteIcon />, },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
@@ -30,3 +30,10 @@ export const categories = [
 ];
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+
+export const demoThumbnailUrl = 'https://i.ytimg.com/vi_webp/pF6He7S_4Es/maxresdefault.webp';
+export const demoChannelUrl = '/channel/UCz8QaiQxApLq8sLNcszYyJw';
+export const demoVideoUrl = '/video/pF6He7S_4Es';
+export const demoChannelTitle = 'Firstpost';
+export const demoVideoTitle = "Want to Be a Morning Person? Think Again. Here's Why | Vantage with Palki Sharma";
+export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png';
